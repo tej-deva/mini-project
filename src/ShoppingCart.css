@@ -1,0 +1,26 @@
+/* ShoppingCart.css */
+
+.shopping-cart {
+    margin: 20px;
+    flex: 1;
+  }
+  .cart-items {
+    list-style-type: none;
+    padding: 0;
+  }
+  .cart-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .checkout-btn {
+    background-color: #f44336;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+  }
+  .checkout-btn:hover {
+    background-color: #d32f2f;
+  }
+  
